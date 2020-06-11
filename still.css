@@ -1,0 +1,43 @@
+﻿p  {
+	color:purple;
+	font-family:"Comic Sans MS", "Cursive", "Sans-seif";
+	font-size: 14px;
+	line-height: 18px;
+	width:150px;
+	background-color: #FFE4C4;
+	padding:10px;
+	}
+	h2 {
+		color:#cc0099;
+	font-family:"Lucida Console", "Monaco", "Mnospace";
+	
+	}
+	a { 
+	color:rgb(255, 204, 102);
+font-family:"Lucida Sans Unicode", "Monaco", sans-serif;
+
+	
+	}
+	h1{
+		color:#ffcc99;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	 position: absolute;
+  left: 550px;
+}
+h3{
+		color:#ff9966;
+	font-family:"Comic Sans MS", "Cursive", "Sans-seif";
+	 position: absolute;
+  left: 400px;
+  	font-size: 24px;
+}
+body{
+	
+	background-image: url("pink.png");
+	  background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+	background-color: black;
+	 margin-left: 30px;
+}
+
